@@ -16,8 +16,8 @@ While there are edges left to add to the MST, find the vertex with the smallest 
 ```
 /*
 Program to implement Prim's Algorithm for finding Total Cost of spanning tree.
-Developed by: K MADAHAVA REDDY
-RegisterNumber:  212223240064
+Developed by: DIVYA P
+RegisterNumber:  212223040044
 */
 #include<stdio.h>
 #include<stdlib.h>
